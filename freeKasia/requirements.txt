@@ -1,0 +1,18 @@
+# Core dependencies
+ezdxf>=1.0.0  # DXF file processing
+pandas>=2.0.0  # Excel file processing
+openpyxl>=3.1.0  # Excel file reading
+chromadb>=0.4.0  # Vector database
+sentence-transformers>=2.2.0  # Embeddings
+torch>=2.0.0  # PyTorch for transformers
+transformers>=4.30.0  # Hugging Face transformers
+accelerate>=0.20.0  # Model acceleration
+bitsandbytes>=0.41.0  # Quantization support
+
+# UI
+gradio>=4.0.0  # Web interface
+
+# Utilities
+python-dotenv>=1.0.0  # Environment variables
+tqdm>=4.65.0  # Progress bars
+numpy>=1.24.0  # Numerical operations

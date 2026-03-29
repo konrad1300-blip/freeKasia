@@ -1,0 +1,11 @@
+aplikacja która działa jak chat pytanie użytkownika wprowadzane 
+tekstowo przy użyciu języka naturalnego. baza właściwości
+w pliku excel przechodzi przez embeding baza zawiera rysunki dxf 
+które trzeba przekształcić na właściwości wektorowe,
+długości czasów, i ilości elementów sztuki metry kwadratowe
+metry bierzące. tak przetworzone dane tworzą bazę wektorową
+podłączoną do LLM (bielik) - bielik analizuje pytanie zadane
+przez uźytkownika i w oparciu o podłączoną bazę generuje odpowieź
+wszystko działające lokalnie bez podłaczenia do internetu. LLM
+ustawiony na niską temperaturę (jak niejmniej halucynacji).
+jeśli nie wie ma odpowiadać nie wiem. 
